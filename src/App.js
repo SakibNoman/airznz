@@ -1,15 +1,9 @@
 import './App.css';
-import logo from './logo.svg';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          airznz is in developing phase
-        </p>
-      </header>
+    <div>
+      <h1>This is app.js</h1>
     </div>
   );
 }
